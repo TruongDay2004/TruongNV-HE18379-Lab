@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
               ),
               SizedBox(height: 10),
               Text(
-                'Your first customized layout 😊',
+                'Your first customized layout ',
                 style: TextStyle(fontSize: 18, color: Colors.black54),
               ),
             ],
