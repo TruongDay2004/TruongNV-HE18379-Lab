@@ -225,7 +225,7 @@ void runExercise5() {
 }
 
 // ==========================================
-// MAIN FUNCTION - CHẠY TOÀN BỘ LAB
+// MAIN FUNCTION - RUN ALL LAB
 // ==========================================
 
 Future<void> main() async {
